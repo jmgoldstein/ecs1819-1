@@ -1,0 +1,17 @@
+#jumbo1{
+    font-family: fantasy;
+    text-align:center;
+    background-color: #98fb98;
+}
+#jumbo2{
+    text-align: center;
+}
+#button1{
+    margin-left: 25px;
+}
+#button2{
+    margin-left: 50px;
+}
+#button3{
+    margin-left: 75px;
+}
