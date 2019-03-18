@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image:url("images2/chi3.jpeg");
+    height: 400px;
+    
+}
+
+#jumbotext1{
+    font-size: 28px;
+    margin-top: 126px
+}
+body{
+    background-color: grey;
+}
